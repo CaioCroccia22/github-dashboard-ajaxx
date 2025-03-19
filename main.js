@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function(){
                 seguindo.innerHTML = following;
                 repositorios.innerHTML = public_repos;
                
+                button.innerHTML = `<a href="https://github.com/CaioCroccia22" style="text-decoration: none; color: #fff;">Clique aqui para ir para o Github</a>`
 
             })
     })
